@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="GestionForageJEEJPATomcat:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>GestionForageJEEJPATomcat</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="GestionForageJEEJPATomcat-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="GestionForageJEEJPATomcat:war exploded" />
+    </root>
+  </artifact>
+</component>
