@@ -29,7 +29,6 @@
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util:10.0.0-M1" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-util-scan:10.0.0-M1" />
           <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-jaspic-api:10.0.0-M1" />
-          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.47" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: com.picscout.depend:dependency:0.0.1" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
@@ -134,9 +133,6 @@
           <element id="library" level="project" name="Maven: org.jacoco:org.jacoco.core:0.7.5.201505241946" />
           <element id="library" level="project" name="Maven: org.ow2.asm:asm-debug-all:5.0.1" />
           <element id="library" level="project" name="Maven: org.jacoco:org.jacoco.report:0.7.5.201505241946" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.11.1" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.11.1" />
-          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.11.1" />
         </element>
       </element>
       <element id="directory" name="META-INF">
